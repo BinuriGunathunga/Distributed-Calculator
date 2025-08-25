@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oAiovdGGs9CyVEC5y12cyDt0GVE6x/e/Jno9A+ZaEf0=",
+  "Source": "CalculatorServer",
+  "BasePath": "_content/CalculatorServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
